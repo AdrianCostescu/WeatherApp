@@ -1,0 +1,20 @@
+{
+  "data": [
+    {
+      "title": "Suceava",
+      "id": 1
+    },
+    {
+      "title": "Bucuresti",
+      "id": 4
+    },
+    {
+      "title": "Oradea",
+      "id": 5
+    },
+    {
+      "title": "Botosani",
+      "id": 6
+    }
+  ]
+}

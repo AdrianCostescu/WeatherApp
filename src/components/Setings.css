@@ -1,0 +1,31 @@
+.fav-pp {
+    color: white;
+    display: flex;
+    width: 80%;
+    margin: 0 auto;
+    margin-top: 5%;
+}
+
+.details {
+    color: rgba(255, 255, 255, 1);
+    display: flex;
+    justify-content: left;
+    justify-content: space-between;
+    padding-top: 1%;
+    padding-bottom: 1%;
+}
+
+.details-p {
+    color: rgba(255, 255, 255, 0.5)
+}
+
+.fav {
+    width: 80%;
+    margin: 0 auto;
+    color: #fff;
+    border-top: 1px solid rgba(255, 255, 255, 0.5); 
+    border-bottom: 1px solid rgba(255, 255, 255, 0.5);
+    cursor: pointer; 
+    padding-top: 4%;
+    padding-bottom: 4%;
+}

@@ -1,0 +1,28 @@
+.weather-box{
+    display: flex;
+    color: #fff;
+}
+
+.box {
+    height: 40%;
+    width: 60%;
+    margin: 0 auto;
+    margin-top: 10%;
+}
+
+.box-2{
+    margin: 0 auto;
+    font-size: 22px;
+}
+
+.box-date{
+    margin: 0 auto;
+    font-size: 46px;
+}
+
+
+.temp-principal{
+    font-size: 86px;
+    margin: 0 auto;
+}
+
